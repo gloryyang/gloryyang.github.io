@@ -1,20 +1,20 @@
-extends partial/layout
-
-block site_title
-    != page.title + " · " + config.title
-
-block description
-    - var desc = page.desc || page.title + ' - ' + config.author;
-    meta(name="description", content=desc)
-
-block container
-    include mixins/post
-    +post(page)
-
-block pagination
-    include mixins/paginator
-    +post()
-    include partial/comment
-
-block copyright
-    include partial/copyright
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> markdown基礎語法 · Hexo</title><meta name="description" content="markdown基礎語法 - John Doe"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.png"><link rel="stylesheet" href="/css/apollo.css"><link rel="search" type="application/opensearchdescription+xml" href="http://yoursite.com/atom.xml" title="Hexo"></head><body><div class="wrap"><header><a href="/" class="logo-link"><img src="/favicon.png" alt="logo"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">BLOG</a></li><li class="nav-list-item"><a href="/archives/" target="_self" class="nav-list-link">ARCHIVE</a></li><li class="nav-list-item"><a href="http://weibo.com/sunchongsheng" target="_blank" class="nav-list-link">WEIBO</a></li><li class="nav-list-item"><a href="https://github.com/pinggod" target="_blank" class="nav-list-link">GITHUB</a></li><li class="nav-list-item"><a href="/atom.xml" target="_self" class="nav-list-link">RSS</a></li></ul></header><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">markdown基礎語法</h1><div class="post-info">Nov 21, 2017</div><div class="post-content"><p>1.標題<br>前面幾個井號就是幾級標題（1-6）<br>快捷鍵：crtl+數字</p>
+<h1 id="这是-H1"><a href="#这是-H1" class="headerlink" title="这是 H1"></a>这是 H1</h1><h2 id="这是-H2"><a href="#这是-H2" class="headerlink" title="这是 H2"></a>这是 H2</h2><h6 id="这是-H6"><a href="#这是-H6" class="headerlink" title="这是 H6"></a>这是 H6</h6><p>2.引用符號&gt;<br>快捷鍵：crtl+shift+Q</p>
+<blockquote>
+<p>引用內容</p>
+</blockquote>
+<p>可嵌套引用</p>
+<p>3.無序列表<br>星號、減號、加號，注意符號後面要加空格</p>
+<ul>
+<li>啦啦啦</li>
+</ul>
+<p>4.分隔線<br>三個或三個以上的星號、減號(允許摻入空格)</p>
+<hr>
+<p>5.超鏈接<br><a href="網址">顯示名</a><br>快捷鍵：crtl+K<br><a href="https://theinitium.com" target="_blank" rel="noopener">端傳媒</a></p>
+<p>6.註釋</p>
+<p>7.強調：加粗，斜體，底線<br>快捷鍵同word<br>高亮 crtl+H<br>==文本==</p>
+<p>8.圖片<br>crtl+shift+I<br><img src="圖片地址" alt="要顯示的名字"><br><img src="E:\Pictures\書生上了毛澤東當.jfif" alt="書生上了毛澤東當"></p>
+<p>9.表格</p>
+<p>10.代碼塊</p>
+<p>註：網頁沒有編輯器顯示完美</p>
+</div></article></div></main><footer><div class="paginator"><a href="/2017/11/21/Hexo主題/" class="prev">上一篇</a><a href="/2017/11/21/博客搭建隨筆/" class="next">下一篇</a></div><div class="copyright"><p>© 2015 - 2017 <a href="http://yoursite.com">John Doe</a>, powered by <a href="https://hexo.io/" target="_blank">Hexo</a> and <a href="https://github.com/pinggod/hexo-theme-apollo" target="_blank">hexo-theme-apollo</a>.</p></div></footer></div><script async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script><script>(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;e=o.createElement(i);r=o.getElementsByTagName(i)[0];e.src='//www.google-analytics.com/analytics.js';r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));ga('create',"UA-65933410-1",'auto');ga('send','pageview');</script></body></html>
