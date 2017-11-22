@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>�������Yȥ</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-22T06:11:30.388Z</updated>
+  <updated>2017-11-22T10:01:38.899Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>gloryyang</name>
     
   </author>
   
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2017/11/21/Hexo%E4%B8%BB%E9%A1%8C/"/>
     <id>http://yoursite.com/2017/11/21/Hexo主題/</id>
     <published>2017-11-21T14:06:12.000Z</published>
-    <updated>2017-11-22T06:11:30.388Z</updated>
+    <updated>2017-11-22T10:01:38.899Z</updated>
     
-    <content type="html"><![CDATA[<p>選擇困難症</p><p><a href="http://pinggod.com/" target="_blank" rel="noopener">http://pinggod.com/</a> 社交網絡的展示似乎只有微博和github<br><a href="http://anatole.munen.cc/" target="_blank" rel="noopener">http://anatole.munen.cc/</a><br><a href="http://chaoo.oschina.io/" target="_blank" rel="noopener">http://chaoo.oschina.io/</a><br><a href="https://itimetraveler.github.io/hexo-theme-hipaper/" target="_blank" rel="noopener">https://itimetraveler.github.io/hexo-theme-hipaper/</a> 還是最鍾意這個，而且似乎知道的人不多喲<br><a href="http://blog.zhangruipeng.me/hexo-theme-icarus/" target="_blank" rel="noopener">http://blog.zhangruipeng.me/hexo-theme-icarus/</a> （也不錯，不過還是上一個更漂亮）<br><a href="https://hexo.io/hexo-theme-light/" target="_blank" rel="noopener">https://hexo.io/hexo-theme-light/</a><br><a href="http://wwwuxt.cc/" target="_blank" rel="noopener">http://wwwuxt.cc/</a> 亮點在於頂部進度條<br><a href="https://blog.keep.moe/" target="_blank" rel="noopener">https://blog.keep.moe/</a><br><a href="https://www.haomwei.com/technology/maupassant-hexo.html" target="_blank" rel="noopener">https://www.haomwei.com/technology/maupassant-hexo.html</a></p><p><a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">http://theme-next.iissnan.com/</a></p>]]></content>
+    <content type="html"><![CDATA[<p>選擇困難症</p><p><a href="http://pinggod.com/" target="_blank" rel="noopener">http://pinggod.com/</a> 社交網絡的展示似乎只有微博和github<br><a href="http://anatole.munen.cc/" target="_blank" rel="noopener">http://anatole.munen.cc/</a><br><a href="http://chaoo.oschina.io/" target="_blank" rel="noopener">http://chaoo.oschina.io/</a><br><a href="https://itimetraveler.github.io/hexo-theme-hipaper/" target="_blank" rel="noopener">https://itimetraveler.github.io/hexo-theme-hipaper/</a> 還是最鍾意這個，而且似乎知道的人不多喲<br><a href="http://blog.zhangruipeng.me/hexo-theme-icarus/" target="_blank" rel="noopener">http://blog.zhangruipeng.me/hexo-theme-icarus/</a> （也不錯，不過還是上一個更漂亮）<br><a href="https://hexo.io/hexo-theme-light/" target="_blank" rel="noopener">https://hexo.io/hexo-theme-light/</a><br><a href="http://wwwuxt.cc/" target="_blank" rel="noopener">http://wwwuxt.cc/</a> 亮點在於頂部進度條<br><a href="https://blog.keep.moe/" target="_blank" rel="noopener">https://blog.keep.moe/</a></p><p><a href="https://www.haomwei.com/technology/maupassant-hexo.html" target="_blank" rel="noopener">https://www.haomwei.com/technology/maupassant-hexo.html</a></p><p><a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">http://theme-next.iissnan.com/</a></p>]]></content>
     
     <summary type="html">
     
