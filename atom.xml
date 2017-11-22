@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>�������Yȥ</title>
+  <title>Where will you go?</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://gloryyang.github.io/"/>
   <updated>2017-11-22T10:01:38.899Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://gloryyang.github.io/</id>
   
   <author>
     <name>gloryyang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo主題</title>
-    <link href="http://yoursite.com/2017/11/21/Hexo%E4%B8%BB%E9%A1%8C/"/>
-    <id>http://yoursite.com/2017/11/21/Hexo主題/</id>
+    <link href="https://gloryyang.github.io/2017/11/21/Hexo%E4%B8%BB%E9%A1%8C/"/>
+    <id>https://gloryyang.github.io/2017/11/21/Hexo主題/</id>
     <published>2017-11-21T14:06:12.000Z</published>
     <updated>2017-11-22T10:01:38.899Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>markdown基礎語法</title>
-    <link href="http://yoursite.com/2017/11/21/markdown%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/"/>
-    <id>http://yoursite.com/2017/11/21/markdown基礎語法/</id>
+    <link href="https://gloryyang.github.io/2017/11/21/markdown%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/"/>
+    <id>https://gloryyang.github.io/2017/11/21/markdown基礎語法/</id>
     <published>2017-11-21T12:36:54.000Z</published>
     <updated>2017-11-21T13:15:27.239Z</updated>
     
@@ -62,8 +62,8 @@
   
   <entry>
     <title>博客搭建隨筆</title>
-    <link href="http://yoursite.com/2017/11/21/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E9%9A%A8%E7%AD%86/"/>
-    <id>http://yoursite.com/2017/11/21/博客搭建隨筆/</id>
+    <link href="https://gloryyang.github.io/2017/11/21/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E9%9A%A8%E7%AD%86/"/>
+    <id>https://gloryyang.github.io/2017/11/21/博客搭建隨筆/</id>
     <published>2017-11-21T12:34:35.000Z</published>
     <updated>2017-11-22T09:17:44.349Z</updated>
     
