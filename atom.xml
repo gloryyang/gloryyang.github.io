@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gloryyang.github.io/"/>
-  <updated>2017-11-23T05:36:23.165Z</updated>
+  <updated>2017-11-23T06:13:28.296Z</updated>
   <id>https://gloryyang.github.io/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>圖片測試</title>
-    <link href="https://gloryyang.github.io/2017/11/23/%E5%9C%96%E7%89%87%E6%B8%AC%E8%A9%A6/"/>
-    <id>https://gloryyang.github.io/2017/11/23/圖片測試/</id>
-    <published>2017-11-23T05:26:19.000Z</published>
-    <updated>2017-11-23T05:36:23.165Z</updated>
+    <title>pic</title>
+    <link href="https://gloryyang.github.io/2017/11/23/pic/"/>
+    <id>https://gloryyang.github.io/2017/11/23/pic/</id>
+    <published>2017-11-23T06:12:51.000Z</published>
+    <updated>2017-11-23T06:13:28.296Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img3.doubanio.com/view/photo/l/public/p2505704240.webp" alt="test"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="E:\Pictures\psychobox.png" alt="psychobox"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/view/photo/l/public/p2505704240.webp&quot; alt=&quot;test&quot;&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;E:\Pictures\psychobox.png&quot; alt=&quot;psychobox&quot;&gt;&lt;/p&gt;
 
       
     
