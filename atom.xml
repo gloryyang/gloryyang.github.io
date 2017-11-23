@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gloryyang.github.io/"/>
-  <updated>2017-11-23T06:18:29.169Z</updated>
+  <updated>2017-11-23T06:25:03.386Z</updated>
   <id>https://gloryyang.github.io/</id>
   
   <author>
@@ -17,24 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>pic</title>
+    <title>pic test</title>
     <link href="https://gloryyang.github.io/2017/11/23/pic/"/>
     <id>https://gloryyang.github.io/2017/11/23/pic/</id>
     <published>2017-11-23T06:12:51.000Z</published>
-    <updated>2017-11-23T06:18:29.169Z</updated>
+    <updated>2017-11-23T06:25:03.386Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="E:\hexo\source\_posts\pic\ho_fan.jpg" alt="ho_fan"><img src="E:\hexo\source\_posts\pic\書生上了毛澤東當.jfif" alt="上當"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/pic/ho_fan.jpg" alt="ho_fan"><img src="/pic/書生上了毛澤東當.jfif" alt="上當"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;E:\hexo\source\_posts\pic\ho_fan.jpg&quot; alt=&quot;ho_fan&quot;&gt;&lt;img src=&quot;E:\hexo\source\_posts\pic\書生上了毛澤東當.jfif&quot; alt=&quot;上當&quot;&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/pic/ho_fan.jpg&quot; alt=&quot;ho_fan&quot;&gt;&lt;img src=&quot;/pic/書生上了毛澤東當.jfif&quot; alt=&quot;上當&quot;&gt;&lt;/p&gt;
 
       
     
     </summary>
     
+    
+      <category term="picture" scheme="https://gloryyang.github.io/tags/picture/"/>
     
   </entry>
   
