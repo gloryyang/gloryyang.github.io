@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gloryyang.github.io/"/>
-  <updated>2018-01-14T10:30:35.884Z</updated>
+  <updated>2018-03-22T14:25:11.634Z</updated>
   <id>https://gloryyang.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>野獸紳士摘記</title>
+    <link href="https://gloryyang.github.io/2018/03/22/%E9%87%8E%E5%85%BD%E7%BB%85%E5%A3%AB%E6%91%98%E8%AE%B0/"/>
+    <id>https://gloryyang.github.io/2018/03/22/野兽绅士摘记/</id>
+    <published>2018-03-22T13:44:36.000Z</published>
+    <updated>2018-03-22T14:25:11.634Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;男人和女人之间本来就相互吸引，这种本能上的迷恋，比人类社会的复杂两性秩序直白得多。我们只是习惯了顺从文明、顺从他人的期待，才收起这些本能，把自己伪装成一个“绅士”。&lt;/p&gt;
+&lt;p&gt;在短时间内通过互动与女人建立情感联结——这一切都基于上帝创造我们时在基因里埋下了互相吸引的种子
+        
+      
+    
+    </summary>
+    
+    
+      <category term="情與性" scheme="https://gloryyang.github.io/tags/%E6%83%85%E8%88%87%E6%80%A7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>試譯The A to Z of the Chinese Cultural Revolution幾個詞條</title>
     <link href="https://gloryyang.github.io/2018/01/14/%E8%A9%A6%E8%AD%AFThe-A-to-Z-of-the-Chinese-Cultural-Revolution%E5%B9%BE%E5%80%8B%E8%A9%9E%E6%A2%9D/"/>
     <id>https://gloryyang.github.io/2018/01/14/試譯The-A-to-Z-of-the-Chinese-Cultural-Revolution幾個詞條/</id>
     <published>2018-01-14T10:29:38.000Z</published>
-    <updated>2018-01-14T10:30:35.884Z</updated>
+    <updated>2018-03-22T14:24:59.088Z</updated>
     
     <summary type="html">
     
@@ -36,6 +61,8 @@
     </summary>
     
     
+      <category term="CulturalRevolution" scheme="https://gloryyang.github.io/tags/CulturalRevolution/"/>
+    
   </entry>
   
   <entry>
@@ -43,7 +70,7 @@
     <link href="https://gloryyang.github.io/2017/11/21/Hexo%E4%B8%BB%E9%A1%8C/"/>
     <id>https://gloryyang.github.io/2017/11/21/Hexo主題/</id>
     <published>2017-11-21T14:06:12.000Z</published>
-    <updated>2017-11-22T10:01:38.899Z</updated>
+    <updated>2018-03-22T14:24:42.429Z</updated>
     
     <summary type="html">
     
@@ -59,6 +86,8 @@
     </summary>
     
     
+      <category term="HexoBlog" scheme="https://gloryyang.github.io/tags/HexoBlog/"/>
+    
   </entry>
   
   <entry>
@@ -66,7 +95,7 @@
     <link href="https://gloryyang.github.io/2017/11/21/markdown%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/"/>
     <id>https://gloryyang.github.io/2017/11/21/markdown基礎語法/</id>
     <published>2017-11-21T12:36:54.000Z</published>
-    <updated>2017-11-23T06:45:09.262Z</updated>
+    <updated>2018-03-22T14:24:06.167Z</updated>
     
     <summary type="html">
     
@@ -82,6 +111,10 @@
     </summary>
     
     
+      <category term="HexoBlog" scheme="https://gloryyang.github.io/tags/HexoBlog/"/>
+    
+      <category term="Markdown" scheme="https://gloryyang.github.io/tags/Markdown/"/>
+    
   </entry>
   
   <entry>
@@ -89,7 +122,7 @@
     <link href="https://gloryyang.github.io/2017/11/21/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E9%9A%A8%E7%AD%86/"/>
     <id>https://gloryyang.github.io/2017/11/21/博客搭建隨筆/</id>
     <published>2017-11-21T12:34:35.000Z</published>
-    <updated>2017-11-23T08:05:11.480Z</updated>
+    <updated>2018-03-22T14:24:29.048Z</updated>
     
     <summary type="html">
     
@@ -105,6 +138,8 @@
     
     </summary>
     
+    
+      <category term="HexoBlog" scheme="https://gloryyang.github.io/tags/HexoBlog/"/>
     
   </entry>
   
